@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Comp254-JNS.iml" filepath="$PROJECT_DIR$/.idea/Comp254-JNS.iml" />
       <module fileurl="file://$PROJECT_DIR$/JophielSerrano_Comp254Lab1/JophielSerrano_Comp254Lab1.iml" filepath="$PROJECT_DIR$/JophielSerrano_Comp254Lab1/JophielSerrano_Comp254Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JophielSerrano_Comp254Lab2/JophielSerrano_Comp254Lab2.iml" filepath="$PROJECT_DIR$/JophielSerrano_Comp254Lab2/JophielSerrano_Comp254Lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test2/Test2.iml" filepath="$PROJECT_DIR$/Test2/Test2.iml" />
     </modules>
