@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2229f1f3-1e24-4b41-9040-692ad65b8985" name="Changes" comment="Lab2">
+    <list default="true" id="2229f1f3-1e24-4b41-9040-692ad65b8985" name="Changes" comment="Lab2Ex2">
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab3/src/FileSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab2/src/RecPalin.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab2/src/RecPalin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab2/JophielSerrano_Comp254Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab3/JophielSerrano_Comp254Lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab2/src/RecPalin.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab3/src/RecPalin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab2/src/RecursiveMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab3/src/RecursiveMultiplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708362327498</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lab2Ex2">
+      <option name="closed" value="true" />
+      <created>1708363201556</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708363201556</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +153,7 @@
     <MESSAGE value="Test1" />
     <MESSAGE value="Test2" />
     <MESSAGE value="Lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2" />
+    <MESSAGE value="Lab2Ex2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2Ex2" />
   </component>
 </project>
