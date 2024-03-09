@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2229f1f3-1e24-4b41-9040-692ad65b8985" name="Changes" comment="Lab3Ex3">
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab4/JophielSerrano_Comp254Lab4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab4/src/SinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab3/src/FileSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab3/src/FileSearch.java" afterDir="false" />
+    <list default="true" id="2229f1f3-1e24-4b41-9040-692ad65b8985" name="Changes" comment="Lab4">
+      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab4/src/LinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab4/src/LinkedQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708366800613</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lab4">
+      <option name="closed" value="true" />
+      <created>1709958162298</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709958162299</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lab4">
+      <option name="closed" value="true" />
+      <created>1709958180215</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709958180215</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,7 +186,8 @@
     <MESSAGE value="Lab2" />
     <MESSAGE value="Lab2Ex2" />
     <MESSAGE value="Lab3Ex3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3Ex3" />
+    <MESSAGE value="Lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

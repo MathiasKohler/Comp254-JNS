@@ -104,20 +104,24 @@ public class LinkedQueue<E> implements Queue<E> {
   }
 
   public static void main(String[] args) {
-    LinkedQueue<Integer> queue1 = new LinkedQueue<>();
-    LinkedQueue<Integer> queue2 = new LinkedQueue<>();
+    LinkedQueue<String> queue1 = new LinkedQueue<>();
+    LinkedQueue<String> queue2 = new LinkedQueue<>();
 
-    for (int i = 1; i <= 5; i++) {
-      queue1.enqueue(i);
-      queue2.enqueue(i + 5);
-    }
 
-    System.out.println("Queue 1 before concatenation: " + queue1.first());
-    System.out.println("Queue 2 before concatenation: " + queue2.first());
+
+    queue1.enqueue("First");
+    queue1.enqueue("Second");
+    queue1.enqueue("Third");
+
+    queue2.enqueue("Fourth");
+    queue2.enqueue("Fifth");
+    queue2.enqueue("Sixth");
+    System.out.println("Queue 1 before concatenation: First: " + queue1.first()+ " Size: "+ queue1.size());
+    System.out.println("Queue 2 before concatenation: First: " + queue2.first()+ " Size: "+ queue2.size());
 
     queue1.concatenate(queue2);
 
-    System.out.println("Queue 1 after concatenation: " + queue1.first());
-    System.out.println("Queue 2 after concatenation: " + queue2.first());
+    System.out.println("Queue 1 after concatenation: First: " + queue1.first()+ " Size: "+ queue1.size());
+    System.out.println("Queue 2 after concatenation: First: " + queue2.first()+ " Size: "+ queue2.size());
   }
 }
