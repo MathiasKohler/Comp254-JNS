@@ -1,13 +1,12 @@
-import java.util.ArrayList;
-import java.util.List;
+class BinaryTreeNode {
+    int val;
+    BinaryTreeNode left, right, parent;
 
-public class TreeNode {
-    public int val;
-    public List<TreeNode> children;
-
-    public TreeNode(int val) {
+    BinaryTreeNode(int val) {
         this.val = val;
-        children = new ArrayList<>();
+        this.left = null;
+        this.right = null;
+        this.parent = null;
     }
 }
 

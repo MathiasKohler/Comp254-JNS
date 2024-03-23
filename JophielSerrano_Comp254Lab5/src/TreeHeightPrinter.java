@@ -1,19 +1,19 @@
 public class TreeHeightPrinter {
-    public static void printElementAndHeight(TreeNode root) {
+    public static void printElementAndHeight(NormalTreeNode root) {
         if (root == null)
             return;
 
         postOrderTraversal(root);
     }
 
-    private static int postOrderTraversal(TreeNode node) {
+    private static int postOrderTraversal(NormalTreeNode node) {
         if (node.children.isEmpty()) {
             System.out.println("Element: " + node.val + ", Height: 0");
             return 0;
         }
 
         int maxHeight = 0;
-        for (TreeNode child : node.children) {
+        for (NormalTreeNode child : node.children) {
             int height = postOrderTraversal(child) + 1;
             maxHeight = Math.max(maxHeight, height);
         }
@@ -23,12 +23,12 @@ public class TreeHeightPrinter {
     }
 
     public static void main(String[] args) {
-        TreeNode root = new TreeNode(1);
-        TreeNode node2 = new TreeNode(2);
-        TreeNode node3 = new TreeNode(3);
-        TreeNode node4 = new TreeNode(4);
-        TreeNode node5 = new TreeNode(5);
-        TreeNode node6 = new TreeNode(6);
+        NormalTreeNode root = new NormalTreeNode(1);
+        NormalTreeNode node2 = new NormalTreeNode(2);
+        NormalTreeNode node3 = new NormalTreeNode(3);
+        NormalTreeNode node4 = new NormalTreeNode(4);
+        NormalTreeNode node5 = new NormalTreeNode(5);
+        NormalTreeNode node6 = new NormalTreeNode(6);
 
         root.children.add(node2);
         root.children.add(node3);
