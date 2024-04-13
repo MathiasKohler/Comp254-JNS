@@ -9,4 +9,3 @@ class BinaryTreeNode {
         this.parent = null;
     }
 }
-

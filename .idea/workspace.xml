@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2229f1f3-1e24-4b41-9040-692ad65b8985" name="Changes" comment="Lab4">
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTreeOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/NormalTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab6/JophielSerrano_Comp254Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab6/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab7/JophielSerrano_Comp254Lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab7/src/BottomUpMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab7/src/TreeSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/AbstractBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/LinkedBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/TreeHeightPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/TreeHeightPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTreeOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTreeOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinaryTreeOperations.executor": "Run",
+    "Application.BottomUpMergeSort.executor": "Run",
     "Application.FileSearch.executor": "Run",
     "Application.HeapPriorityQueue.executor": "Run",
     "Application.LinkedPositionalList.executor": "Run",
@@ -49,13 +51,14 @@
     "Application.RecPalin.executor": "Run",
     "Application.StackTransfer.executor": "Run",
     "Application.TreeHeightPrinter.executor": "Run",
+    "Application.TreeSearch.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Screen Guy/Documents/Comp254/JophielSerrano_Comp254Lab5/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Screen Guy/Documents/Comp254/JophielSerrano_Comp254Lab7/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,7 +69,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeHeightPrinter">
+  <component name="RunManager">
+    <configuration name="BinaryTreeOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeOperations" />
+      <module name="JophielSerrano_Comp254Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HeapPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HeapPriorityQueue" />
       <module name="JophielSerrano_Comp254Lab5" />
@@ -83,8 +93,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeHeightPrinter" />
+        <item itemvalue="Application.BinaryTreeOperations" />
         <item itemvalue="Application.HeapPriorityQueue" />
+        <item itemvalue="Application.TreeHeightPrinter" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711163558421</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lab4">
+      <option name="closed" value="true" />
+      <created>1711164004950</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711164004950</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
