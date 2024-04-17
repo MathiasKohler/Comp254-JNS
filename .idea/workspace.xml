@@ -5,15 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2229f1f3-1e24-4b41-9040-692ad65b8985" name="Changes" comment="Lab4">
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab6/JophielSerrano_Comp254Lab6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab6/src/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab7/JophielSerrano_Comp254Lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab7/src/BottomUpMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab7/src/TreeSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/JophielSerrano_Comp254Test2Exercise3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/src/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/JophielSerrano_Comp254Test2Exercise3/src/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/src/AbstractBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/src/AbstractTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/src/LinkedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/src/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Test2/src/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTreeOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTreeOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/JophielSerrano_Comp254Lab5/src/BinaryTreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +45,16 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2b6IN9KXxbcLJBcl39Ii9mDX4gE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.BinaryTreeOperations.executor": "Run",
     "Application.BottomUpMergeSort.executor": "Run",
     "Application.FileSearch.executor": "Run",
@@ -247,6 +261,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added Ignore" />
     <MESSAGE value="Test1" />
     <MESSAGE value="Test2" />
